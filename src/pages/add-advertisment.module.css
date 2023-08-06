@@ -1,0 +1,53 @@
+.title_advertisment > span,
+.photo_advertisment > span,
+.description_advertisment > span,
+.price_advertisment > span {
+    display: block;
+    padding-bottom: 10px;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.photo_advertisment, .description_advertisment, .price_advertisment {
+    margin-top: 40px;
+}
+
+.description_advertisment > textarea {
+    height: 200px;
+    resize: none;
+}
+
+.button_advertisment {
+    width: 800px;
+    margin: 100px auto;
+}
+.title_advertisment > input,
+.photo_advertisment > input,
+.description_advertisment > textarea,
+.price_advertisment > input,
+.description_advertisment > input {
+    width: 800px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid gray;
+    background-color: gray;
+    color: white;
+}
+.description_advertisment > span {
+    margin-top: 30px;
+}
+
+.title_advertisment > input::-webkit-input-placeholder, 
+.photo_advertisment > input::-webkit-input-placeholder,
+.price_advertisment > input::-webkit-input-placeholder,
+.description_advertisment > input::-webkit-input-placeholder {
+    color: white;
+}
+
+.title_advertisment > input:focus, 
+.photo_advertisment > input:focus,
+.description_advertisment > textarea:focus,
+.price_advertisment > input:focus,
+.description_advertisment > input:focus {
+    outline: none;
+}

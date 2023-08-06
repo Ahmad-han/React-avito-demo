@@ -1,0 +1,59 @@
+.advertisment {
+    width: 70%;
+}
+
+.actived, .archived {
+    display: block;
+    font-size: 21px;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+.actived {
+    border-bottom: 2px solid black;
+}
+
+.border_bottom {
+    border-bottom: 1px solid lightgray;
+}
+.active_and_archive {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.advertisment_block {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin-top: 30px;
+}
+
+.advertisment_image {
+    width: 300px;
+    height: 300px;
+}
+
+.advertisment_image > img {
+    width: 100%;
+    display: block;
+}
+
+.advertisment_text {
+    width: 290px;
+}
+
+.course {
+    font-size: 22px;
+    font-weight: 600;
+    color: #0382F7;
+}
+
+.price {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.location {
+    font-size: 13px;
+    color: #A0A0A0;
+}
