@@ -464,61 +464,71 @@
       "messageId": 1,
       "userName": "Аслан",
       "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
-      "message": "Добрый день! Можно информацию по курсу?"
+      "message": "Добрый день! Можно информацию по курсу?",
+      "avatar": "https://vraki.net/sites/default/files/inline/images/3_114.jpg"
     },
     {
       "messageId": 2,
       "userName": "Ахьмад",
       "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
-      "message": "Ассаламу алейкум ва рахьматуллах1. Сертификат выдаете после обучения?"
+      "message": "Ассаламу алейкум ва рахьматуллах1. Сертификат выдаете после обучения?",
+      "avatar": "https://i.pinimg.com/474x/15/e4/9d/15e49db95da04ebcabf0ea7e428b260f.jpg"
     },
     {
       "messageId": 3,
       "userName": "Азизхан",
       "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
-      "message": "Ассаламу алейкум. Набор на индивидуальное обучение идет у вас? "
+      "message": "Ассаламу алейкум. Набор на индивидуальное обучение идет у вас? ",
+      "avatar": "https://abrakadabra.fun/uploads/posts/2022-03/1646760046_3-abrakadabra-fun-p-kruglie-avatarki-s-tekstom-8.jpg"
     },
     {
       "messageId": 4,
       "userName": "Руслан",
       "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
-      "message": "Добрый день! Как мне записаться на курс?"
+      "message": "Добрый день! Как мне записаться на курс?",
+      "avatar": "https://hostenko.com/wpcafe/wp-content/uploads/rndavatar.png"
     },
     {
       "messageId": 5,
       "userName": "Евгений",
       "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
-      "message": "Здравствуйте, Хотели отдать своего сына на курсы программирования, наткнулись на ваше объявление, расскажите подробнее про свой курс"
+      "message": "Здравствуйте, Хотели отдать своего сына на курсы программирования, наткнулись на ваше объявление, расскажите подробнее про свой курс",
+      "avatar": "https://avatars.mds.yandex.net/get-mpic/5218923/img_id4030843980778312551.jpeg/orig"
     },
     {
       "messageId": 6,
       "userName": "Миша",
       "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
-      "message": "Доброго времени суток, У меня дочь, 18-ти лет, хотела обучиться программированию, ваш курс по описанию мне понравился, скажите вы обучаете девушек?"
+      "message": "Доброго времени суток, У меня дочь, 18-ти лет, хотела обучиться программированию, ваш курс по описанию мне понравился, скажите вы обучаете девушек?",
+      "avatar": "https://vraki.net/sites/default/files/inline/images/2_3.png"
     },
     {
       "messageId": 7,
       "userName": "Федор",
       "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
-      "message": "Добрый день! Можно информацию по курсу?"
+      "message": "Добрый день! Можно информацию по курсу?",
+      "avatar": "https://vraki.net/sites/default/files/inline/images/5_106.jpg"
     },
     {
       "messageId": 8,
       "userName": "Бакар",
       "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
-      "message": "Ассаламу алейкум, мац ю набор брат?"
+      "message": "Ассаламу алейкум, мац ю набор брат?",
+      "avatar": "https://phonoteka.org/uploads/posts/2021-04/1618530920_14-p-kruglii-fon-dlya-avatarki-14.png"
     },
     {
       "messageId": 9,
       "userName": "Изнаур",
       "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
-      "message": "Ассаламу алейкум, тха жимох вол ваш вар чох программирование 1амо лууш, хотел бы к вам его отдать, скиньте свой номер чтобы могли поговорить по телефону"
+      "message": "Ассаламу алейкум, тха жимох вол ваш вар чох программирование 1амо лууш, хотел бы к вам его отдать, скиньте свой номер чтобы могли поговорить по телефону",
+      "avatar": "https://phonoteka.org/uploads/posts/2021-04/1618530896_1-p-kruglii-fon-dlya-avatarki-1.png"
     },
     {
       "messageId": 10,
       "userName": "Ксения",
       "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
-      "message": "Добрый день! Можно информацию по курсу?"
+      "message": "Добрый день! Можно информацию по курсу?",
+      "avatar": "https://i.pinimg.com/736x/5f/61/a0/5f61a0e798a7291ec37bcb79b4f44cad.jpg"
     }
   ]
 }

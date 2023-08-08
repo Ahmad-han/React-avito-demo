@@ -14,7 +14,7 @@ export const Chat = ({ chat }) => {
     return (
         <div className={styles.chat}>
             <div className={styles.avatar_user}>
-                <img src={avatar_user} alt="" />
+                <img src={chat.avatar} alt="" />
             </div>
 
         <div className={styles.message_right_block}>

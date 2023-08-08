@@ -128,6 +128,11 @@
 .avatar_user {
     padding: 10px;
 }
+.avatar_user > img {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+}
 
 .messages_user_name, .title_ad, .message_from_user {
     padding-left: 20px;
